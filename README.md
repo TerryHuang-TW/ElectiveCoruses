@@ -35,7 +35,7 @@ Output explanation:
 "無法加選:": shows by analysing list order, the students in list cannot be selected by system
 "順位 num1, 第 num2 志願": shows students will be num1 th order when their volunteer is num2  
 "==選課結果==": shows the course studends limit, number of selected and number in queue  
-/*****************************************  
+*****************************************/  
   
 待分發： 順位 1 , 第 1 志願  
         資訊工程學系 4年級 志願1 待分  
